@@ -1,4 +1,11 @@
 # Software-Project-Management-Lab-1
+
+| Names | Student Number | Email |
+| :---:         |     :---:      |          :---: |
+| Muhammad Mujtaba Madad   | 100790195     | muhammad.madad@ontariotechu.net    |
+| Dawood Hanan     | 100779063       | muhammad.hanan@ontariotechu.net      |
+| Syed Jeeyan | 100702199 | syedmohammad.jeeyan@ontariotechu.net |
+
 Lab 1 for Software Project Management 
 
 __<ins>Screenshots:</ins>__
