@@ -1,4 +1,8 @@
-# Software-Project-Management-Lab-1
+# Software-Project-Management-Lab-1-Group-12
+
+CRN: 74015
+
+Section: 003
 
 | Names | Student Number | Email |
 | :---:         |     :---:      |          :---: |
